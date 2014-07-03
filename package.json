@@ -3,6 +3,15 @@
   "version": "0.1.1",
   "description": "Stream condition for switch/case",
   "main": "index",
+  "keywords": [
+    "stream",
+    "switch",
+    "case",
+    "condition",
+    "gulp",
+    "gulpplugin",
+    "plugin"
+  ],
   "dependencies": {
     "stream-switch": "0.1.0"
   },
@@ -12,15 +21,6 @@
     "mocha": "1",
     "should": "3"
   },
-  "keyword": [
-    "stream",
-    "switch",
-    "case",
-    "condition",
-    "gulp",
-    "gulpplugin",
-    "plugin"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/popomore/gulp-switch"
