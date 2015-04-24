@@ -13,7 +13,7 @@
     "plugin"
   ],
   "dependencies": {
-    "stream-switch": "0.1.0"
+    "stream-switch": "~0.1.0"
   },
   "devDependencies": {
     "istanbul": "0",
